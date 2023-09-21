@@ -10,7 +10,6 @@ A Python application to fetch and display real-time weather data from OpenWeathe
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 
