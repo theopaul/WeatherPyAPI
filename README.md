@@ -1,7 +1,3 @@
-Certainly, a well-crafted README file is essential for any GitHub repository as it helps users understand what the project is about, how to set it up, and how to use it. Here's a sample README for your WeatherPyAPI project:
-
----
-
 # WeatherPyAPI
 
 ## Description
